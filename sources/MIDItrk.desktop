@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=MIDItrk
+Comment=Tracker-style MIDI-composer
+Exec=MIDItrk
+Icon=/usr/share/icons/MIDITRKicon.xpm
+Terminal=false
+Categories=AudioVideo;Audio;AudioVideoEditing;
+MimeType=application/mit;audio/mid;
